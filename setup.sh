@@ -1,5 +1,6 @@
 #created by MrHacker-X; give me credit if you're using any part of this script.
-#bin/bash
+#bin/bashf
+
 
 clear
 echo -e "

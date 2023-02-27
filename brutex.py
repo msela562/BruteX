@@ -157,7 +157,7 @@ def hackbook():
 		passw=file.readline().strip()
 		i+=1
 		if len(passw) < 6:
-			continue
+			continue 
 		print(str(i) +" : ",passw)
 		if function(usr,passw,i):
 			break
